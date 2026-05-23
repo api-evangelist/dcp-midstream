@@ -1,0 +1,82 @@
+name: DCP Midstream (Acquired by Phillips 66)
+description: >-
+  DCP Midstream LLC was a Denver, Colorado-based natural gas gathering,
+  processing, and NGL transportation company that operated as one of the
+  largest U.S. producers and marketers of natural gas liquids. In June 2023,
+  Phillips 66 completed the acquisition of all publicly traded common units of
+  DCP Midstream LP for approximately $3.8 billion, taking its ownership stake
+  to 86.8%. DCP Midstream and Phillips 66 Partners were subsequently merged
+  into Phillips 66's NGL and midstream business; the standalone brand, public
+  filings, developer surface, and corporate website have been retired. The
+  dcpmidstream.com domain no longer resolves to a working site, and there is
+  no public DCP-branded developer portal, API reference, status page, or
+  changelog. This repository documents DCP Midstream as a defunct entity
+  absorbed into the Phillips 66 midstream organization.
+url: https://raw.githubusercontent.com/api-evangelist/dcp-midstream/main/apis.yml
+image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-network/dcp-midstream/logo.png
+created: '2026-05-22'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+type: Index
+aid: dcp-midstream
+tags:
+  - Defunct
+  - Acquired
+  - Phillips 66
+  - Midstream
+  - Natural Gas
+  - NGL
+  - Natural Gas Liquids
+  - Pipeline
+  - Gas Processing
+  - Energy
+  - Oil And Gas
+  - Fortune 500
+apis: []
+common:
+  - type: AcquiredBy
+    name: Acquired by Phillips 66
+    url: https://www.phillips66.com/midstream/
+    description: >-
+      Phillips 66 completed the take-private acquisition of DCP Midstream LP
+      in June 2023 for approximately $3.8 billion in cash, lifting its
+      ownership of DCP to 86.8%. DCP Midstream's assets were merged with
+      Phillips 66 Partners and are now operated as part of Phillips 66's NGL
+      and midstream business segment.
+  - type: Successor
+    name: Phillips 66 Midstream
+    url: https://www.phillips66.com/midstream/
+    description: >-
+      Phillips 66's midstream segment now operates the integrated NGL,
+      natural gas gathering and processing, and refined products pipeline
+      assets previously owned by DCP Midstream and Phillips 66 Partners,
+      including more than 72,000 miles of pipeline, 11 NGL fractionation
+      plants, ~889,000 bpd of fractionation capacity, and ~4.8 Bcf/d of
+      natural gas processing capacity.
+  - type: SuccessorAPIs
+    name: Phillips 66 (No Public API Program)
+    url: https://github.com/api-evangelist/phillips-66
+    description: >-
+      Phillips 66, the corporate parent that absorbed DCP Midstream, does
+      not operate a public developer program, OpenAPI surface, SDK
+      portfolio, or status page. There is no DCP-branded API program that
+      survived the merger.
+  - type: History
+    name: Company History
+    url: https://en.wikipedia.org/wiki/DCP_Midstream
+    description: >-
+      DCP Midstream was headquartered in Denver, Colorado, and was a
+      Fortune 500 midstream petroleum services provider with hundreds of
+      employees and multi-billion-dollar enterprise value prior to its
+      take-private acquisition by Phillips 66.
+  - type: FormerWebsite
+    name: dcpmidstream.com (Retired)
+    url: https://dcpmidstream.com
+    description: >-
+      The former corporate website at dcpmidstream.com no longer resolves
+      to a working DCP Midstream site (TLS/cert errors observed on
+      2026-05-23). Phillips 66 has consolidated all DCP-related
+      communications onto phillips66.com.
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com

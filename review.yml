@@ -1,0 +1,37 @@
+name: DCP Midstream Review
+aid: dcp-midstream
+reviewed: '2026-05-23'
+status: Defunct
+disposition: Acquired
+acquiredBy: Phillips 66
+acquisitionClose: '2023-06'
+acquisitionValueUSD: 3800000000
+acquisitionNote: >-
+  Phillips 66 completed a take-private acquisition of DCP Midstream LP in
+  June 2023 for ~$3.8B in cash, lifting its ownership to 86.8% and merging
+  DCP with Phillips 66 Partners into Phillips 66's NGL and midstream
+  business segment.
+successor: Phillips 66 Midstream
+successorURL: https://www.phillips66.com/midstream/
+formerHQ: Denver, Colorado, USA
+formerSector: Natural Gas Gathering, Processing, and NGL Transportation
+apiSurface:
+  developerPortal: false
+  openapi: false
+  asyncapi: false
+  sdks: false
+  cli: false
+  webhooks: false
+  statusPage: false
+  changelog: false
+  rssFeed: false
+  publicPricing: false
+  graphQL: false
+notes:
+  - dcpmidstream.com no longer resolves to an active website (TLS cert errors on 2026-05-23).
+  - No surviving DCP-branded developer program, OpenAPI, SDKs, or status surface.
+  - Operations integrated into Phillips 66 midstream alongside Phillips 66 Partners.
+  - Phillips 66 itself does not run a public developer program.
+sources:
+  - https://en.wikipedia.org/wiki/DCP_Midstream
+  - https://www.phillips66.com/midstream/
