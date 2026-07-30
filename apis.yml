@@ -13,6 +13,17 @@ description: >-
   changelog. This repository documents DCP Midstream as a defunct entity
   absorbed into the Phillips 66 midstream organization.
 url: https://raw.githubusercontent.com/api-evangelist/dcp-midstream/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-network/dcp-midstream/logo.png
 created: '2026-05-22'
 modified: '2026-05-23'
