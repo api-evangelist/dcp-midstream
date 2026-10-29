@@ -64,45 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-**Status: Defunct — acquired by Phillips 66 in June 2023.**
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-DCP Midstream LLC was a Denver, Colorado-based Fortune 500 midstream energy company focused on natural gas gathering and processing, NGL transportation, and NGL fractionation. In June 2023, **Phillips 66 closed a $3.8 billion take-private acquisition** of all publicly traded common units of DCP Midstream LP, lifting its ownership stake to 86.8%. DCP Midstream and Phillips 66 Partners were subsequently merged into Phillips 66's NGL and midstream business segment, and the standalone DCP brand was retired.
+DCP Midstream LLC was a Denver, Colorado-based natural gas gathering, processing, and NGL transportation company that operated as one of the largest U.S. producers and marketers of natural gas liquids. In June 2023, Phillips 66 completed the acquisition of all publicly traded common units of DCP Midstream LP for approximately $3.8 billion, taking its ownership stake to 86.8%. DCP Midstream and Phillips 66 Partners were subsequently merged into Phillips 66's NGL and midstream business; the standalone brand, public filings, developer surface, and corporate website have been retired. The dcpmidstream.com domain no longer resolves to a working site, and there is no public DCP-branded developer portal, API reference, status page, or changelog. This repository documents DCP Midstream as a defunct entity absorbed into the Phillips 66 midstream organization.
 
-The former corporate website at `dcpmidstream.com` no longer resolves to an active site (TLS certificate errors as of 2026-05-23). All DCP-related communications, operations, and asset disclosures are now consolidated under [Phillips 66 Midstream](https://www.phillips66.com/midstream/).
+**Areas:** Defunct · Acquired · Phillips 66 · Midstream · Natural Gas · NGL · Natural Gas Liquids · Pipelines · Gas Processing · Energy · Oil and Gas · Fortune 500
 
-## API Surface
+## DCP Midstream on APIs.io (historical record)
 
-**Zero public APIs.** DCP Midstream never operated a public developer program, and none of the following existed at the time of acquisition or survived the merger:
+Everything profiled for DCP Midstream is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dcp-midstream/](https://apis.io/providers/dcp-midstream/)** — or go straight to one of the APIs or properties below.
 
-- No developer portal
-- No OpenAPI / AsyncAPI specifications
-- No SDKs or CLI
-- No webhooks
-- No public status page
-- No public changelog or RSS feed
-- No public pricing or rate-card APIs
-- No GraphQL endpoint
+## API Evangelist rating
 
-Phillips 66 — the absorbing parent — likewise does not run a public developer program. There is no DCP-branded API surface to profile.
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-## Successor
+## How this profile is made
 
-Phillips 66's midstream segment now operates the assets that previously sat inside DCP Midstream and Phillips 66 Partners, including:
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-- More than 72,000 miles of pipeline across the U.S.
-- 11 NGL fractionation plants
-- ~889,000 bpd of NGL fractionation capacity
-- ~4.8 Bcf/d of natural gas processing capacity
-- The Sweeny Hub NGL/petrochemical complex
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DCP Midstream: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-For ongoing coverage, see the [Phillips 66 profile](https://github.com/api-evangelist/phillips-66) in the API Evangelist network.
+## Open an issue
 
-## Files
-
-- [`apis.yml`](apis.yml) — Defunct-entity index documenting the acquisition and successor.
-- [`review.yml`](review.yml) — API Evangelist review record (status: Defunct / Acquired).
-
-## Sources
-
-- [DCP Midstream on Wikipedia](https://en.wikipedia.org/wiki/DCP_Midstream)
-- [Phillips 66 Midstream](https://www.phillips66.com/midstream/)
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dcp-midstream/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
